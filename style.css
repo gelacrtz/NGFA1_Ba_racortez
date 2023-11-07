@@ -1,0 +1,11 @@
+section{
+  display: flex;
+  justify-content: baseline;
+  padding: 5px;
+}
+video{
+    align-self: center;
+    padding-top: 40px;
+    height: 850px;
+    width: 600px;
+}
